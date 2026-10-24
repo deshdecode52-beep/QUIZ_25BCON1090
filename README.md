@@ -21,7 +21,7 @@ An interactive, browser-based quiz application built using HTML, CSS, and JavaSc
 ## Project Structure
 
 ```text
-Queez-25BOCN1090/
+Queez-25BCON1090/
 ├── index.html
 ├── style.css
 ├── script.js
